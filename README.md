@@ -1,4 +1,4 @@
 chzone
 ======
 
-change the zone
+this is a program to change the zone
