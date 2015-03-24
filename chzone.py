@@ -24,8 +24,8 @@ class chzone:
 
 	    dictfile = json.loads(jsonfile)
 
-	##--print dict info--
-	#    print "good"
+	##--print dict info-- 
+	#    print "good" good
 	#    for i in dictfile.keys():
 	#        c = dictfile[i]
 	#        for j in c:
